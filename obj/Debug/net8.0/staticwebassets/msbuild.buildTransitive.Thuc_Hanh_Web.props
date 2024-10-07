@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Thuc_Hanh_Web.props" />
+</Project>
